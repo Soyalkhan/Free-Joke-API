@@ -13,6 +13,7 @@ body {
   height: 300px;
 }
 .main {
+  /* display: block; */
   border-radius: 30px;
   height: 300px;
   width: 500px;
@@ -52,6 +53,7 @@ body {
 }
 .joke-div {
   display: flex;
+  line-height: 2;
   color: white;
   height: 100px;
   padding: 10px;
